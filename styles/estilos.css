@@ -24,3 +24,6 @@ background-color: #a823e3;
     background-attachment: fixed;
     padding: 25%;
 }
+.row {
+  font-size: 150%;
+}
